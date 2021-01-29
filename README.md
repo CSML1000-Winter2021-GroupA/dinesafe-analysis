@@ -1,5 +1,15 @@
 # Dinesafe Analysis
+## Description
 Analysis and prediction of Dinesafe results
+
+## How to Contribute
+- Build the environment with `conda env create --file environment.yaml `
+- Activate the environment with `conda activate dinesafe-analysis`
+- Launch either `jupyter lab` or `jupyter notebook`
+
+## Conventions
+- `data` folder contains flat file data
+- Dependencies must be added to `environment.yaml` for development and `requirements.txt` for mybinder deployment
 
 ## How to deploy web app
 Click button below
