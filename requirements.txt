@@ -63,14 +63,12 @@ shapely==1.7.1
 six==1.15.0
 tornado==6.1
 traitlets==5.0.5
-vc==14.2
 voila==0.2.6
 voila-vuetify==0.5.1
 vs2015_runtime==14.27.29016
 wcwidth==0.2.5
 webencodings==0.5.1
 wheel==0.36.2
-wincertstore==0.2
 winpty==0.4.3
 xerces-c==3.2.3
 xz==5.2.5
