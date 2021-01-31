@@ -43,8 +43,6 @@ notebook==6.2.0
 numpy==1.19.2
 packaging==20.8
 pandas==1.2.1
-pandoc==2.11.4
-pandocfilters==1.4.2
 parso==0.7.1
 pcre==8.44
 pickleshare==0.7.5
