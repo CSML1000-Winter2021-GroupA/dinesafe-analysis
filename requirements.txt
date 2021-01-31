@@ -44,7 +44,6 @@ numpy==1.19.2
 packaging==20.8
 pandas==1.2.1
 parso==0.7.1
-pcre==8.44
 pickleshare==0.7.5
 pip==20.3.3
 postgresql==11.2
