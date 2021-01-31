@@ -19,7 +19,6 @@ icc_rt==2019.0.0
 idna==3.1
 importlib-metadata==3.4.0
 importlib_metadata==3.4.0
-intel-openmp==2020.2
 ipykernel==5.4.2
 ipython==7.19.0
 ipython_genutils==0.2.0
