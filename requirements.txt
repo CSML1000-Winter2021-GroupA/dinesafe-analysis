@@ -34,10 +34,6 @@ jupyterlab_pygments==0.1.2
 jupyterlab_server==1.0.9
 markupsafe==1.1.1
 mistune==0.8.4
-mkl==2020.2
-mkl-service==2.3.0
-mkl_fft==1.2.0
-mkl_random==1.1.1
 msys2-conda-epoch==20160418
 munch==2.5.0
 nbclient==0.5.1
