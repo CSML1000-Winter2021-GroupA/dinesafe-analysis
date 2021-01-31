@@ -32,7 +32,6 @@ jupyter_server==1.2.3
 jupyterlab==2.1.0
 jupyterlab_pygments==0.1.2
 jupyterlab_server==1.0.9
-libpng==1.6.37
 libpq==11.2
 libsodium==1.0.18
 libspatialindex==1.9.3
