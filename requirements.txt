@@ -24,7 +24,6 @@ ipython==7.19.0
 ipython_genutils==0.2.0
 jedi==0.17.2
 jinja2==2.11.2
-jpeg==9b
 json5==0.9.5
 jsonschema==3.2.0
 jupyter_client==6.1.11
