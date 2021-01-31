@@ -6,7 +6,6 @@ backcall==0.2.0
 bleach==3.2.3
 certifi==2020.12.5
 cffi==1.14.4
-cfitsio==3.470
 click==7.1.2
 click-plugins==1.1.1
 cligj==0.7.1
