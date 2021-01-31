@@ -68,7 +68,6 @@ voila-vuetify==0.5.1
 wcwidth==0.2.5
 webencodings==0.5.1
 wheel==0.36.2
-xerces-c==3.2.3
 xz==5.2.5
 zeromq==4.3.3
 zipp==3.4.0
