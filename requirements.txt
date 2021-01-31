@@ -13,7 +13,6 @@ colorama==0.4.4
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
-expat==2.2.10
 fiona==1.8.13.post1
 freexl==1.0.6
 gdal==3.0.2
