@@ -32,7 +32,6 @@ jupyter_server==1.2.3
 jupyterlab==2.1.0
 jupyterlab_pygments==0.1.2
 jupyterlab_server==1.0.9
-kealib==1.4.7
 krb5==1.16.4
 libboost==1.67.0
 libcurl==7.67.0
