@@ -15,7 +15,6 @@ defusedxml==0.6.0
 entrypoints==0.3
 fiona==1.8.13.post1
 geopandas==0.8.1
-hdf4==4.2.13
 hdf5==1.10.4
 icc_rt==2019.0.0
 icu==58.2
